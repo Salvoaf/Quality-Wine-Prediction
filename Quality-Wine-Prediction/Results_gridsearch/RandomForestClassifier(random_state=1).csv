@@ -1,0 +1,5 @@
+,params,mean_fit_time,std_fit_time,mean_test_score,std_test_score
+0,"{'bootstrap': False, 'criterion': 'entropy', 'max_depth': 6, 'n_estimators': 600}",8.566055,0.068941,0.803274,0.013264
+1,"{'bootstrap': False, 'criterion': 'entropy', 'max_depth': 6, 'n_estimators': 1000}",12.823006,0.823682,0.803194,0.012959
+2,"{'bootstrap': False, 'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 600}",10.282273,0.458619,0.848068,0.0057
+3,"{'bootstrap': False, 'criterion': 'entropy', 'max_depth': 10, 'n_estimators': 1000}",14.961976,0.417633,0.848755,0.006577

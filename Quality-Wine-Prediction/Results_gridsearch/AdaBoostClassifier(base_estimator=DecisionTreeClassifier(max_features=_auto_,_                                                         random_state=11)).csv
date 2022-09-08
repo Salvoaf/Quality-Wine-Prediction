@@ -1,0 +1,9 @@
+,params,mean_fit_time,std_fit_time,mean_test_score,std_test_score
+0,"{'base_estimator__criterion': 'gini', 'base_estimator__splitter': 'best', 'n_estimators': 1}",0.008555,0.002149,0.914293,0.00883
+1,"{'base_estimator__criterion': 'gini', 'base_estimator__splitter': 'best', 'n_estimators': 2}",0.014283,0.001003,0.915921,0.007898
+2,"{'base_estimator__criterion': 'gini', 'base_estimator__splitter': 'random', 'n_estimators': 1}",0.009874,0.000826,0.906508,0.00652
+3,"{'base_estimator__criterion': 'gini', 'base_estimator__splitter': 'random', 'n_estimators': 2}",0.008225,0.001025,0.911045,0.011448
+4,"{'base_estimator__criterion': 'entropy', 'base_estimator__splitter': 'best', 'n_estimators': 1}",0.015012,0.0007,0.917809,0.009649
+5,"{'base_estimator__criterion': 'entropy', 'base_estimator__splitter': 'best', 'n_estimators': 2}",0.013382,0.002404,0.916323,0.013319
+6,"{'base_estimator__criterion': 'entropy', 'base_estimator__splitter': 'random', 'n_estimators': 1}",0.007468,0.000549,0.914385,0.006153
+7,"{'base_estimator__criterion': 'entropy', 'base_estimator__splitter': 'random', 'n_estimators': 2}",0.00714,0.001304,0.904658,0.014625

@@ -1,0 +1,7 @@
+,params,mean_fit_time,std_fit_time,mean_test_score,std_test_score
+0,"{'criterion': 'gini', 'max_depth': 6}",0.013121,0.000192,0.774541,0.008132
+1,"{'criterion': 'gini', 'max_depth': 13}",0.029161,0.002221,0.791827,0.006296
+2,"{'criterion': 'gini', 'max_depth': 20}",0.03852,0.002154,0.775578,0.007096
+3,"{'criterion': 'entropy', 'max_depth': 6}",0.023437,0.000343,0.7533,0.013108
+4,"{'criterion': 'entropy', 'max_depth': 13}",0.039226,0.002155,0.792854,0.006219
+5,"{'criterion': 'entropy', 'max_depth': 20}",0.039619,0.001949,0.788347,0.006588

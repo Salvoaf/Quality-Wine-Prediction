@@ -1,0 +1,5 @@
+,bootstrap,criterion,max_depth,n_estimators,mean_fit_time,std_fit_time,Accuracy_Test,std_Accuracy
+0,False,entropy,6,600,3.99434,0.02256,0.61381,0.01549
+1,False,entropy,6,1000,7.80157,0.34084,0.61491,0.01846
+2,False,entropy,10,600,8.37718,0.57202,0.72271,0.01607
+3,False,entropy,10,1000,13.42943,0.22917,0.72189,0.01524
